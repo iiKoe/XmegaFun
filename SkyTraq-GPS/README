@@ -1,0 +1,4 @@
+Parser for the SkyTraq Binary GPS protocol.
+
+Suboptimal implementation due to among other things memory overlapping copy’s.
+This is for reference use and will not be further developed.

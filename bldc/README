@@ -1,0 +1,8 @@
+Two old partially working and tested BLDC drivers.
+These are for reference use and will not be further developed.
+
+bldc-sensorless
+    Use AC to control BLDC driver fets
+ 
+bldc-driver-sin
+    Put sinus on DAC that is fed into a custom PCB to control BLDC driver fets
